@@ -1,6 +1,6 @@
 
-;Project 1 Redo- By Wli Akbar
-; 23528066
+;Project 1- By Wli Akbar
+
 
 
 .model tiny	
